@@ -1,0 +1,24 @@
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\bin\Debug\Remember.exe.config
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\bin\Debug\Remember.exe
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\bin\Debug\Remember.pdb
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\obj\Debug\Remember.csproj.AssemblyReference.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\obj\Debug\Remember.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\obj\Debug\Remember.Form1.resources
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\obj\Debug\Remember.Properties.Resources.resources
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\obj\Debug\Remember.csproj.GenerateResource.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\obj\Debug\Remember.csproj.CoreCompileInputs.cache
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\obj\Debug\Remember.exe
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\obj\Debug\Remember.pdb
+C:\Users\Tygo\Desktop\Introduction to Programming\Project\Remember\Remember\obj\Debug\Remember.Game.resources
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\bin\Debug\Remember.exe.config
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\bin\Debug\Remember.exe
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\bin\Debug\Remember.pdb
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\obj\Debug\Remember.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\obj\Debug\Remember.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\obj\Debug\Remember.Form1.resources
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\obj\Debug\Remember.Game.resources
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\obj\Debug\Remember.Properties.Resources.resources
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\obj\Debug\Remember.csproj.GenerateResource.cache
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\obj\Debug\Remember.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\obj\Debug\Remember.exe
+C:\Users\Victus\Desktop\64569_Red-eyes_Project 3\Remember\Remember\obj\Debug\Remember.pdb

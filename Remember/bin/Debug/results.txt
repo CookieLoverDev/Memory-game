@@ -1,0 +1,7 @@
+Nikita has won the game! Difficulity: Hard, Time: 37, Tiles: 11
+Umidjon has won the game! Difficulity: Hard, Time: 40, Tiles: 11
+Bohdan has won the game! Difficulity: Hard, Time: 46, Tiles: 11
+Kirill has lost the game! Difficulity: Easy, Time: 27, Tiles: 5
+Akram has lost the game! Difficulity: Easy, Time: 72, Tiles: 5
+Akram has lost the game! Difficulity: Easy, Time: 85, Tiles: 5
+fds has won the game! Difficulity: Easy, Time: 5, Tiles: 5
